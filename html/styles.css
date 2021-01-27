@@ -4,3 +4,7 @@ h1 {
 h2 {
     color: navy;
 }
+a.navbar-brand{
+    navbar-dark;
+    bg-primary;
+}
